@@ -1,4 +1,5 @@
 test change
+test change 2
 # react-native-app-intro
 react-native-app-intro is a react native component implementing a parallax effect welcome page using base on [react-native-swiper](https://github.com/leecade/react-native-swiper) , similar to the one found in Google's app like Sheet, Drive, Docs...
 
